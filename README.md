@@ -3,10 +3,10 @@ I enjoy exploring and working on various projects related to artificial intellig
 Currently, I am focused on enhancing my knowledge in Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN).
 
 **Skills** : 
-Machine Learning
-Deep Learning
-C
-Java
+Machine Learning,
+Deep Learning,
+C,
+Java,
 c++
 
 **Projects** : 
