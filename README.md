@@ -6,7 +6,6 @@ Currently, I am focused on enhancing my knowledge in Convolutional Neural Networ
 Machine Learning,
 Deep Learning,
 C,
-Java,
 c++
 
 **Projects** : 
